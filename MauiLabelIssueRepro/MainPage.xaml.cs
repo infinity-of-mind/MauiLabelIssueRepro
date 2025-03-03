@@ -1,4 +1,4 @@
-﻿namespace MauiApp1;
+﻿namespace MauiLabelIssueRepro;
 
 public partial class MainPage : ContentPage
 {

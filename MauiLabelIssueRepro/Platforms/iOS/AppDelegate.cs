@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MauiApp1;
+namespace MauiLabelIssueRepro;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate
